@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: APIRunners.TestRunners
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 32.895 sec <<< FAILURE!
-New users should be created and updated(Create new users and update them)  Time elapsed: 27.462 sec  <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 24.544 sec <<< FAILURE!
+New users should be created and updated(Create new users and update them)  Time elapsed: 19.079 sec  <<< ERROR!
 java.net.UnknownHostException: No such host is known (api.url.org)
 	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
 	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
