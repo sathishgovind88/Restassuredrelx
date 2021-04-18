@@ -1,4 +1,5 @@
-{
- "Title":"posting the users",
- "Body":"sucessfully posted"
+{    
+    "name": "Sathish Sampath",
+    "age": 32,
+    "country": "England UK"    
  }
